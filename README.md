@@ -14,7 +14,7 @@ You can click the Preview link to take a look at your changes.
 
 <h3 align="left">Portfolio:</h3>
 <p align="left">
-<a href="https://lucianomiller.github.io/" target="blank"><img align="center" src="https://www.seekpng.com/png/detail/16-165938_png-file-web-site-icon-vector.png" alt="" height="30" width="40" /></a>
+<a href="https://lucianomiller.github.io/" target="blank"><img align="center" src="https://www.seekpng.com/png/detail/16-165938_png-file-web-site-icon-vector.png" alt="" height="30" width="30" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
